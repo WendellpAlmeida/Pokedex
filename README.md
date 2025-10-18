@@ -1,5 +1,6 @@
 # Pokedex
-Projeto de Pokedéx utilizando  as linguagens  HTML, CSS e Javascript consumindo uma API do Pokémon 
+Projeto de Pokedéx utilizando  as linguagens  HTML, CSS e Javascript consumindo uma API do Pokémon. 
+
 API que foi utilizada para gerar os gifs e números dos pokémons conforme pokedéx:
 https://pokeapi.co/
 
